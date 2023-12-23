@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{9ED6F6BD-4CDB-44CE-A5CA-7560F39FE90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTests", "BinarySearchTests\BinarySearchTests.csproj", "{170A35D5-A420-4689-99E7-4BC66B77081C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "..\Problem2\QuickSort\QuickSort.csproj", "{86063868-7F2C-418E-9A58-21B5A50C3BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED6F6BD-4CDB-44CE-A5CA-7560F39FE90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED6F6BD-4CDB-44CE-A5CA-7560F39FE90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED6F6BD-4CDB-44CE-A5CA-7560F39FE90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED6F6BD-4CDB-44CE-A5CA-7560F39FE90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170A35D5-A420-4689-99E7-4BC66B77081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170A35D5-A420-4689-99E7-4BC66B77081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170A35D5-A420-4689-99E7-4BC66B77081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170A35D5-A420-4689-99E7-4BC66B77081C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86063868-7F2C-418E-9A58-21B5A50C3BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86063868-7F2C-418E-9A58-21B5A50C3BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86063868-7F2C-418E-9A58-21B5A50C3BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86063868-7F2C-418E-9A58-21B5A50C3BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
